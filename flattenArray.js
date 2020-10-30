@@ -28,7 +28,7 @@ arr2 = flattenArray(arr2, []);
 arr3 = flattenArray(arr3, []);
 arr4 = flattenArray(arr4, []);
 
-console.log("Flattened arr1: ", arr1);
-console.log("Flattened arr2: ", arr2);
-console.log("Flattened arr3: ", arr3);
-console.log("Flattened arr4: ", arr4);
+console.log("Flattened arr1: ", arr1); // [Expected output] Flattened arr1: [1,2,3]
+console.log("Flattened arr2: ", arr2); // [Expected output] Flattened arr1: [1,2,3,4,5,6,7,8,9]
+console.log("Flattened arr3: ", arr3); // [Expected output] Flattened arr1: [1,2,3,4,5,6,7,8,9,10]
+console.log("Flattened arr4: ", arr4); // [Expected output] Flattened arr1: [1,2,3,4,5]
